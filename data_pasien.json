@@ -1,0 +1,17 @@
+[
+    {
+        "name": "pasien 1",
+        "result": "Tumor detected",
+        "confidence": 96.48687243461609
+    },
+    {
+        "name": "pasien2",
+        "result": "No tumor detected",
+        "confidence": 95.1894748955965
+    },
+    {
+        "name": "Pasien 3",
+        "result": "Tumor detected",
+        "confidence": 92.39388108253479
+    }
+]
